@@ -2,7 +2,7 @@
 
 A comprehensive financial planning toolkit with interactive calculators, educational resources, and visualization tools.
 
-![Financial Calculator Suite](https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrg![Screenshot 2025-05-17 152111](https://github.com/user-attachments/assets/b29e5165-a021-4ec4-b28a-6bfcd7353bfb)
+(https://github.com/user-attachments/assets/b29e5165-a021-4ec4-b28a-6bfcd7353bfb)
 b&w=1260&h=750&dpr=2)
 
 ## Features
